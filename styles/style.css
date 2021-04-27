@@ -59,7 +59,7 @@ body {
 }
 
 .navigate {
-  position: stickyпуепуе;
+  position: sticky;
   top: 59px;
   background: rgba(0, 0, 0, 0.5);
   border: 1px solid rgba(125, 115, 115, 0.5);
